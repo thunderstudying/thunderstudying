@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hello I'm thunderstudying 👋
+### Hello I'm thunder 👋
 
 - 🔭 I’m currently researing on Object Detection
 
