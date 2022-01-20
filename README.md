@@ -1,7 +1,3 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=thunderstudying&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true&hide=contribs" />
-
-### Hello I'm thunderstudying 👋
-
 <!--
 **thunderstudying/thunderstudying** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,4 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hello I'm thunderstudying 👋
+
 - 🔭 I’m currently researing on Object Detection
+
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=thunderstudying&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true&hide=contribs" /> -->
+<img align="bottom" src="https://github-readme-stats.vercel.app/api?username=thunderstudying&show_icons=true">
