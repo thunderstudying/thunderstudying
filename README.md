@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ### Hello I'm thunder 👋
 
-- 🔭 My reseach interest is Object Detection.
+- 🔭 I'm interested in Object Detection.
 
 <img align="bottom" src="https://github-readme-stats.vercel.app/api?username=thunderstudying&show_icons=true">
 
